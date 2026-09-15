@@ -1,8 +1,8 @@
 
 
-Proyecto de AWS trata de subir todos mis apuntes que me he ido haciendo de AWS
+Proyecto de AWS trata de subir todos mis apuntes que me he ido haciendo de AWS, de momento esta en Beta porque este proyecto está empezando
 
-## Contenido del Proyecto
+## Contenido del Proyecto 
 
 Este repositorio contiene:
 
