@@ -65,19 +65,19 @@ Toda política JSON de AWS tiene esta estructura:
 
 ## Ejemplos Incluidos
 
-### 1. Acceso de Solo Lectura a S3
+### 1. Acceso de solo lectura a S3
 
 Permite leer objetos con tag específico de producción.
 
-### 2. Acceso Completo a S3
+### 2. Acceso completo a S3
 
 Permisos totales sobre buckets S3.
 
-### 3. Acceso Condicional EC2
+### 3. Acceso condicional EC2
 
 Permisos sobre instancias EC2 según tags.
 
 ---
 
 **Autor**: Daniel Bernad Peñuelas  
-**Última actualización**: Septiembre 2026  
+**Última actualización**: Agosto 2026  
